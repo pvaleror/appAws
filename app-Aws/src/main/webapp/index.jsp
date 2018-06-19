@@ -5,7 +5,7 @@
 <body>
 <h2>Here we go!</h2>
 <p>Some new content</p>
-<img src="http://bdfjade.com/data/out/151/6530800-crazy-picture.png" />
+<img src="none " alt="no se carga la imagen" max-width="400" max-height="400" />
 <p>Much more content</p>
 </body>
 </html>
